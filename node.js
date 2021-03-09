@@ -11,8 +11,9 @@ let n =fruits.length;
     }
 }
 fruits()
+// (expected output)
 // kiwi
 // orange
 // mangoes
 // grapes
-// Avacado (expected output)
+// Avacado 
